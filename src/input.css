@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@theme {
+  /* !container */
+  --spacing-mContainer: 1520px; 
+  /* ! Container */
+  /* !Font start */
+  --font-display-orebitron:  "Orbitron", sans-serif; 
+  --font-display-montserat:  "Montserrat", sans-serif; 
+  /* !Font End */
+  --color-midnight: #F0B71F;
+  --color-hero: #C4C4C4;
+  --color-sidebox: #373636ab;
+  --color-paragraph: #DDDDDD;
+  --color-boxes: #ffffff1a;
+  --color-pLeft: #E03609;
+  --color-pRight: #F0B71F;
+  
+  /* ?letter speaching */
+  --tracking-letter: -0.2px; 
+
+  /* ?letter speaching */
+
+  
+ 
+}
+colr{
+  color:#373636ab;
+}
